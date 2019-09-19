@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2019-09-19T00:46:20-06:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[cout << me::random();]]></title>
+  <link href="http://www.markwang.com/atom.xml" rel="self"/>
+  <link href="http://www.markwang.com/"/>
+  <updated>2019-09-19T08:26:35-06:00</updated>
+  <id>http://www.markwang.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mark Wang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://yoursite.com/blog/2019/09/19/hello/"/>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://www.markwang.com/blog/2019/09/19/hello/"/>
     <updated>2019-09-19T00:28:54-06:00</updated>
-    <id>http://yoursite.com/blog/2019/09/19/hello</id>
+    <id>http://www.markwang.com/blog/2019/09/19/hello</id>
     <content type="html"><![CDATA[<p>Brushing off the domain I&rsquo;ve had since last millenium and trying to bring back the lost art of static HTML blogging.  Let&rsquo;s see how this goes&hellip;</p>
 ]]></content>
   </entry>
